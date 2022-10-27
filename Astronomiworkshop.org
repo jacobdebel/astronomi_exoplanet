@@ -1,0 +1,496 @@
+#+title: Exoplaneten 
+#+subtitle: Astronomiworkshop
+#+author: Vibenshus Gymnasium
+#+date: Jacob Debel
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+REVEAL_TITLE_SLIDE_BACKGROUND: https://scx2.b-cdn.net/gfx/news/hires/2018/waterworldsa.jpg
+#+reveal_extra_options: slideNumber:"c/t",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+* Velkommen
+
+* Forestil jer 
+:PROPERTIES:
+:reveal_background: https://ak.picdn.net/shutterstock/videos/21273343/thumb/1.jpg
+:END:
+
+* tanken om
+:PROPERTIES:
+:reveal_background: ./img/2020-10-26_19-53-16_screenshot.png
+:END:
+
+
+* at bebo en fremmed planet
+:PROPERTIES:
+:reveal_background: ./img/2020-10-26_20-02-51_screenshot.png
+:END:
+
+* en exoplanet
+:PROPERTIES:
+:reveal_background: https://d.newsweek.com/en/full/1537516/alien-planet.webp?w=790&f=f989a28f2667e10d685a9eb4d2246cb2 
+:END:
+
+* Hvad skal der til?
+
+#+attr_reveal: :frag (appear)
+- Først skal de opdages.
+- Så skal der rejses der hen.
+- Gerne med en udforskningsrobot, som kan tage prøver.
+- Disse skal så testes for, om de er giftige. 
+
+* 4 workshops
+#+reveal_html: <div style="font-size: 70%;">
+
+Derfor har vi 4 workshops
+#+attr_reveal: :frag (appear)
+** *Astronomi*
+:PROPERTIES:
+:reveal_background: https://exoplanets.nasa.gov/system/news_items/main_images/1581_ManyExoplanets1280.jpg
+:END:
+   
+   Hvordan finder man exoplaneter?
+
+** *(Raket)Fysik*
+:PROPERTIES:
+:reveal_background: ./img/rocket.png
+:END:
+   
+   Hvad skal der til for at rejse der hen?
+   
+** *Programmér en rover*
+:PROPERTIES:
+:reveal_background: https://upload.wikimedia.org/wikipedia/commons/d/d8/NASA_Mars_Rover.jpg
+:END:
+   
+   Hvordan styrer man en udforskningsrobot?
+
+** *Jordbundsanalyse*
+Hvordan kan man foretage en jordbundsanalyse?
+
+#+attr_html: :width 600px
+https://morellofert.com.au/wp-content/uploads/2016/06/soil-analysis.png
+   
+
+
+* Exoplaneter
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+- En exoplanet er en planet, som bevæger sig om en anden stjerne end Solen.
+- Den 1. oktober 2022 er der registreret 5197 exoplaneter. (Kilde [[https://en.wikipedia.org/wiki/Exoplanet]])
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+https://exoplanets.nasa.gov/system/news_items/main_images/1581_ManyExoplanets1280.jpg
+#+reveal_html: </div>
+
+
+* Observationsmetoder
+Hvordan observeres de?
+#+attr_reveal: :frag appear
+- Radialhastighed
+- Astrometri
+- Formørkelse
+- Microlensing
+- Direkte observationer
+
+** Radialhastighed
+Den første metode til at påvise exoplaneter.
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/u8EW4oPst_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Astrometri
+En meget svær metode. Kun en exoplanet er opdaget på denne måde.
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/4u_dVKKRoPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Formørkelsesmetoden
+Den mest succesfulde metode. 
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/xNeRqbw18Jk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Microlensing
+Kan detektere meget små exoplaneter. Optræder dog kun én gang.
+
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/h5NqpgOfiu4" title="Planet Hunting Techniques: Microlensing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Direkte observationer
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+- 2M1207b
+- Første billede af en exoplanet
+- 2004 af VLT
+- 5 gange tungere end Jupiter
+- 55 gange afstanden mellem Jorden og Solen
+- 230 lysår væk
+- Billedet er sammensat af 3 nærinfrarøde billeder
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+https://exoplanets.nasa.gov/system/resources/detail_files/300_26a_big-vlt-s.jpg
+#+reveal_html: </div>
+
+** VLT - Very Large Telescope
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/LY_zLR9kE1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Kan man så bo der?
+
+
+* Den beboelige zone
+
+[[file:img/2020-10-27_09-07-41_Habitable-Zone-e1560444810546.jpg.jpeg]]
+
+
+** Den beboelige zone
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+Vi ved at der er liv på Jorden.
+
+#+attr_reveal: :frag (appear)
+- Den beboelige zone er derfor et bælte omkring en stjerne med nogenlunde samme /flux/, som vi modtager fra Solen.
+- Kaldes undertiden /guldlokzonen/. 
+- Her er der lige tilpas varmt.
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+https://www.nbi.ku.dk/Nyheder/nyheder_15/planeter-i-beboelig-zone-omkring-de-fleste-stjerner-beregner-forskere/CompLifeZoneRGBwTxt-br-1000.jpg
+#+reveal_html: </div>
+
+*** Kan vi selv regne den ud?
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+attr_reveal: :frag (appear)
+- Ja selvfølgelig!
+- Men først skal vi lige vide lidt om /luminositet/ og /flux/.
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+[[file:img/2020-10-26_22-02-28_17437647-3d-man-thinking-with-red-question-marks-above-his-head-over-white-background.jpg]]
+#+reveal_html: </div>
+
+*** Luminositet
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+- Den samlede /effekt/ i /alle/ retninger. 
+- Måles i watt, eller i enheder af $L_{\odot}$ (solluminositeter)
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+[[file:img/2020-10-26_22-14-59_screenshot.png]]
+#+reveal_html: </div>
+
+
+*** Flux
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+- /Effekt/ per areal.
+- $\phi = \sigma \cdot T^4$ Stefan-Boltzmanns lov
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+https://www.ux1.eiu.edu/~cfadd/1360/24Gauss/24Images/Fig24.01.jpg
+#+reveal_html: </div>
+
+*** Sammenhæng
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+- $L = A_\text{overflade} \cdot \phi$
+- $A_\text{kugleoverflade} = 4 \pi r^2$
+- $L = 4 \pi r^2 \cdot \phi$
+- $\boxed{r = \sqrt{\frac{L}{4 \pi \phi}}}$ 
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/flux-img2.gif
+#+reveal_html: </div>
+
+*** Beboelig zone om Jorden
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 40%">
+- Jorden modtager en flux fra Solen på $\phi = 1386 \, \frac{W}{m^2}$
+- Jordens afstand til Solen er $1 \, AE = 1.496 \cdot 10^{11} \,m$.
+- Solens luminositet er $L_\odot = 3.90 \cdot 10^{26} \,W$
+#+attr_reveal: :frag (appear)
+- Lad os antage at den beboelige zone ligger der, hvor fluxen er mellem $1200 \, \frac{W}{m^2}$ og  $1500 \, \frac{W}{m^2}$ 
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 60%">
+#+attr_reveal: :frag (appear)
+- Lad os indsætte værdierne i formlen fra forrige side.
+- $r = \sqrt{\frac{L}{4 \pi \phi}}$ 
+- $r_\text{max} = \sqrt{\frac{3.90 \cdot 10^{26}W}{4 \pi \cdot 1200 W/m^2}}=1.61\cdot 10^{11} m = 1.07 \,AE$ 
+- $r_\text{min} = \sqrt{\frac{3.90 \cdot 10^{26}W}{4 \pi \cdot 1500 W/m^2}}=1.44\cdot 10^{11} m = 0.96 \,AE$
+#+reveal_html: </div>
+
+*** Beboelig zone om andre stjerner
+#+reveal_html: <div style="font-size: 60%;">
+- Hvis en anden stjerne har en luminositet på $L = k \cdot L_\odot$ bliver formlerne til
+- $r_\text{max} = \sqrt{k} \cdot 1.07 \, AE$
+- $r_\text{min} = \sqrt{k} \cdot 0.96 \, AE$
+
+*** Opgave
+#+reveal_html: <div style="font-size: 70%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+1. Beregn de beboelige zoners bredder og afstande for de viste typer af stjerner.
+2. Beregn, hvor meget Solens luminositet skal ændre sig, før Jorden kommer til at befinde sig uden for den beboelige zone.
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+| Spektraltype | Luminositet $L/L_{\odot}$ |
+|--------------+---------------------------|
+| B5           |                       800 |
+| A0           |                        60 |
+| F0           |                         8 |
+| G0           |                       1.4 |
+| K0           |                       0.4 |
+| K5           |                       0.2 |
+| M0           |                      0.06 |
+#+reveal_html: </div>
+*** Svar
+#+reveal_html: <div style="font-size: 60%;">
+
+| Spektraltype | $L/L_{\odot}$ | $r_\text{min} [AE]$ | $r_\text{max} [AE]$ | Bredde $[AE]$ |
+|--------------+---------------+---------------------+---------------------+---------------|
+| B5           |           800 |               27.15 |               30.26 |          3.11 |
+| A0           |            60 |                7.44 |                8.29 |          0.85 |
+| F0           |             8 |                2.72 |                3.03 |          0.31 |
+| G0           |           1.4 |                1.14 |                1.26 |          0.12 |
+| K0           |           0.4 |                0.61 |                0.68 |          0.07 |
+| K5           |           0.2 |                0.43 |                0.48 |          0.05 |
+| M0           |          0.06 |                0.24 |                0.26 |          0.02 |
+
+- Hvis $r_\text{min} = 1 AE$ så er $1 AE = \sqrt{k} \cdot 0.96 AE \to k = \left( \frac{1}{0.96} \right)^2 = 1.085$ . Luminositeten er steget med 8.5%
+- Hvis $r_\text{max} = 1 AE$ så er $1 AE = \sqrt{k} \cdot 1.07 AE \to k = \left( \frac{1}{1.07} \right)^2 = 0.87$ . Luminositeten er faldet med 13%
+
+*** Konklusion
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+attr_reveal: :frag (appear)
+- Beboelig zone længere væk for store stjerner.
+- Beboelig zone bredere for store stjerner.
+- Omkring hvilke stjerner vil det så være nemmest at lede efter exoplaneter i den beboelige zone?
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+#+attr_html: :width 400px
+[[file:img/beboelig_zone2.png]]
+#+reveal_html: </div>
+
+*** Men, men, men
+#+reveal_html: <div style="font-size: 70%;">
+#+attr_reveal: :frag (appear)
+- Der er ikke særligt mange store stjerner i universet.
+- Store stjerner "lever" i meget kort tid (~1 000 000 år for O)
+- Solen lever i ca 12 mia år.
+- De små stjerner lever lææænge (~ 100 mia år)
+- Men den beboelige zone er meget tæt på stjernen.
+- Exoplanet og stjerner kommer i bunden rotation. Ingen dag og nat.
+- Man vil blive svitset af stjernens stråling, hvis man er så tæt på den.
+- Overfladen på en lille stjerne er meget mere aktiv/urolig end store stjerner. Udsender mange "solstorme".
+  
+*** Spektralklasser
+#+reveal_html: <div style="font-size: 60%;">
+Hvad er det nu for noget?
+
+| Type | Masse (1 for Solen) | Temp [K] | Radius (1 for Solen) | Luminositet (1 for Solen) |
+|------+---------------------+----------+----------------------+---------------------------|
+| O    |                  60 | 50 000   |                   15 |                 1 400 000 |
+| B    |                  18 | 28 000   |                    7 |                    20 000 |
+| A    |                 3.2 | 10 000   |                  2.5 |                        80 |
+| F    |                 1.7 | 7 400    |                  1.3 |                         6 |
+| G    |                 1.1 | 6 000    |                  1.1 |                       1.2 |
+| K    |                 0.8 | 4 900    |                  0.9 |                       0.4 |
+| M    |                 0.3 | 3 000    |                  0.4 |                      0.04 |
+
+*** Oh Be A Fine Girl Kiss Me!
+#+attr_html: :width 700px
+[[file:img/2020-10-28_12-45-00_1024px-Dwarf_Stars.png]]
+
+
+#+attr_reveal: :frag (appear)
+#+begin_quote
+Hvordan skelner man så stjernerne fra hinanden?
+#+end_quote
+
+* Spektralanalyse
+** Simpel atomfysik
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+Emission
+[[file:img/emission_hvid.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+Absorption
+[[file:img/absorption_hvid.png]]
+#+reveal_html: </div>
+
+** Spektra
+
+#+attr_html: :width 600px
+[[file:img/2020-10-28_11-22-12_oDIES.jpg]]
+
+** Fingeraftryk
+#+attr_html: :width 800px
+[[file:img/periodisk_system_spektra.jpg]]
+
+
+** Sortlegemestråling
+#+begin_export html
+<div style="margin:0 auto; width: 600px; height: 400px;"><a href="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum-600.png" alt="Blackbody Spectrum" style="border: none;" width="600" height="400"/></a></div>
+#+end_export
+
+** Sortlegemestråling
+#+attr_html: width: 800px
+[[file:img/sortlegeme.png]]
+
+
+** Spektrallinjer + sortlegemestråling
+| [[file:img/2020-10-28_11-22-12_oDIES.jpg]] | +| [[file:img/sortlegeme.png]] |
+
+** Spektrallinjer + sortlegemestråling
+[[file:img/sortlegeme_absorption.jpg]]
+
+#+reveal: split
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+begin_quote
+Hvorfor ser man mest absorptionslinjer fra stjerner?
+#+end_quote
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+[[file:img/2020-10-26_22-02-28_17437647-3d-man-thinking-with-red-question-marks-above-his-head-over-white-background.jpg]]
+#+reveal_html: </div>
+
+#+reveal: split
+#+attr_html: :width 700px
+[[file:img/star_absorption.png]]
+- Fordi lyset skal ud gennen stjernens (kolde) atmosfære.
+
+** Men der er mere endnu
+
+** Dopplereffekten
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/h4OnBYrbCjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Rød- og blåforskydning
+#+attr_html: :width 700px
+[[file:img/forskydning.png]]
+
+#+reveal: split
+#+attr_html: :width 600px
+[[file:img/2020-10-28_13-01-57_spec_sun_arcturus.gif]]
+
+#+attr_reveal: :frag (appear)
+- Stjernen Arcturus bevæger sig væk fra os, fordi spektrallinjerne er rødforskudte!
+
+** Dopplerudtværing
+#+attr_html: :width 700px
+[[file:img/brint_udtvaering_2.png]]
+
+#+attr_reveal: :frag (appear)
+- Hvorfor skaber roterende og/eller varme stjerner bredere spektrallinjer?
+
+** Opsummering
+#+reveal_html: <div style="font-size: 60%;">
+|file:img/hot_cool.png | file:img/stars.jpg|
+- Form på sortlegemestråling (Varm vs kold)
+- Se efter obsorptionslinjer for bestemte grundstoffer
+- (Rød og blåforskydning)
+- Bredde af absorptionslinjer (Varm vs kold)
+
+#+reveal: split
+| Spektralklasse | Fremtrædende absorptionslinjer  |
+|----------------+---------------------------------|
+| O              | He+,He,H, He, H                 |
+| B              | He,H                            |
+| A              | H(stærkest),ioniserede metaller |
+| F              | Ioniserede metaller             |
+| G              | Ioniserede og neutrale metaller |
+| K              | Neutrale metaller               |
+| M              | Neutrale atomer, TiO            |
+  
+** Sammenlign spektre
+#+reveal_html: <div style="font-size: 50%;">
+- 9 spektre af kendte stjerner. Læg dem op i spektralklasserækkefølge. Sammenlign dem.
+- Læg mærke til bredde  af udvalgte spektrallinjer.
+- Hydrogenlinje ved 6563 Å er god at studere.
+- Varme stjerner har bredere absorptionslinjer end kolde.
+- Kolde stjerner har mere "ujævne" spektre ift. varme.
+- Nogle spektrallinjer optræder hos nogle stjerner og ikke andre.
+
+[[file:img/spektrum2.png]]  
+
+** 2 ukendte stjerner
+#+reveal_html: <div style="font-size: 60%;">
+#+attr_html: :width 600px
+[[file:img/Ukendt_stjerne_1.png]] 
+
+#+attr_html: :width 600px
+[[file:img/Ukendt_stjerne_2.png]] 
+
+- Giv jeres bedste bud på disse to stjerners spektralklasse.
+
+** Og svaret er
+
+#+attr_html: :width 700px
+[[file:img/Ukendte_stjerner_underviser.pdf-1.png]]
+
+#+attr_html: :width 700px
+[[file:img/Ukendte_stjerner_underviser.pdf-2.png]]
+
+#+reveal: split
+- Hvordan får man så egentlig disse spektre?
+#+attr_reveal: :frag (appear)
+- Vha et spektrometer!
+* Spektrometer
+[[file:img/spektrometer1.jpg]]
+
+** Kan laves selv
+#+attr_html: :width 400px
+[[file:img/skabelon_spektrometer.png]]
+
+** Men vi har snydt lidt
+
+** Montér på jeres telefon med tape
+#+attr_html: :width 500px
+[[file:img/spektrometer2.jpg]]
+
+* Grundstofbestemmelse
+
+
+** Ukendte grundstoffer
+Bestem de ukendte grundstoffer udelukkende vha jeres spektrometre.
+#+attr_html: :width 400px
+[[file:img/spektralroer.jpeg]]
+
+** Her er lidt hjælp igen
+
+#+attr_html: :width 800px
+[[file:img/periodisk_system_spektra.jpg]]
+
+** Endnu mere hjælp
+- Brint, Neon og Kviksølv
+#+attr_html: :width 700px
+[[file:img/periodisk_system_spektra_Ne_Hg_H2.jpg]]
+
+
+** Hvordan vil man så finde grundstofferne i exoplaneters atmosfærer?
+:PROPERTIES:
+:reveal_background: https://platomission.files.wordpress.com/2018/05/ethr6uy.jpg
+:END:
+
+** ELT - Extremely Large Telescope
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/WfpXP-MSYdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+** JWST - James Webb Space Telescope
+:PROPERTIES:
+:reveal_background: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/artist_s_impression_of_the_james_webb_space_telescope/17429370-1-eng-GB/Artist_s_impression_of_the_James_Webb_Space_Telescope_pillars.jpg
+:END:
+
+
