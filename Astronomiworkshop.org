@@ -101,6 +101,9 @@ Den første metode til at påvise exoplaneter.
 <iframe width="600" height="400" src="https://www.youtube.com/embed/u8EW4oPst_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
+*** Animation
+[[./img/Radialhastighed_animation.gif]]
+
 ** Astrometri
 En meget svær metode. Kun en exoplanet er opdaget på denne måde.
 #+begin_export html
@@ -114,12 +117,52 @@ Den mest succesfulde metode.
 #+end_export
 
 ** Microlensing
-Kan detektere meget små exoplaneter. Optræder dog kun én gang.
+Kan detektere meget små exoplaneter. 
 
 #+begin_export html
 <iframe width="600" height="400" src="https://www.youtube.com/embed/h5NqpgOfiu4" title="Planet Hunting Techniques: Microlensing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
+** Microlensing
+#+reveal_html: <div style="display: grid; grid-template-columns: auto auto;">
+#+reveal_html: <div>
+#+attr_html: :width 600px
+[[file:img/2020-04-29_19-16-32_Gravitational_micro_rev.jpg]]
+#+reveal_html: </div>
+
+#+reveal_html: <div>
+#+attr_html: :width 600px
+[[file:img/2020-04-29_19-17-42_screenshot.png]]
+#+reveal_html: </div>
+#+reveal_html: </div>
+
+*** Gravitationslinse uden exoplanet
+[[./img/Gravitational_lens.gif]]
+
+*** Gravitationslinse med exoplanet
+
+[[./img/Gravitational_lens_with_exoplanet.jpg]]
+
+*** SONG-teleskopet
+#+DOWNLOADED: https://www.nbi.ku.dk/Nyheder/nyheder_14/nyt-dansk-teleskop-til-forskning-i-stjerner-og-jordlignende-exo-planeter/SONG_panorama_teide_medium1280.jpg @ 2020-04-29 17:26:53
+#+attr_html: :width 600px
+[[file:img/2020-04-29_17-26-53_SONG_panorama_teide_medium1280.jpg]]
+
+#+reveal_html: <div style="font-size: 60%;">
+- Dansk teleskop på Tenerife.
+- Samarbejde mellem Aarhus Universitet og Københavns Universitet.
+- Fuldautomatiseret.
+
+#+reveal: split
+#+reveal_html: <div style="font-size: 50%;">
+#+begin_quote
+SONG was conceived with two primary scientific goals in mind:
+
+- To study the internal structure of stars at a level to what can be done for the Sun when it is observed as a distant star using asteroseismology as a tool.
+- To search for and characterize planets in orbit around other stars using both gravitational microlensing observations, transit photometry and radial velocity measurements.
+
+#+end_quote
+Kilde: [[https://phys.au.dk/song/research-and-facilities/science-with-song/]]
 ** Direkte observationer
 #+reveal_html: <div style="font-size: 60%;">
 #+reveal_html: <div class="column" style="float:left; width: 50%">
