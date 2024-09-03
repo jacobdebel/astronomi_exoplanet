@@ -1,7 +1,6 @@
 #+title: Exoplaneten 
 #+subtitle: Astronomiworkshop
 #+author: Vibenshus Gymnasium
-#+date: Jacob Debel
 # Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
 #+reveal_theme: night
 #+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
@@ -78,7 +77,7 @@ https://morellofert.com.au/wp-content/uploads/2016/06/soil-analysis.png
 #+reveal_html: <div style="font-size: 60%;">
 #+reveal_html: <div class="column" style="float:left; width: 50%">
 - En exoplanet er en planet, som bevæger sig om en anden stjerne end Solen.
-- Den 1. oktober 2022 er der registreret 5197 exoplaneter. (Kilde [[https://en.wikipedia.org/wiki/Exoplanet]])
+- Den 21. august 2024 er der registreret 5747 exoplaneter. (Kilde [[https://en.wikipedia.org/wiki/Exoplanet]])
 #+reveal_html: </div>
 
 #+reveal_html: <div class="column" style="float:right; width: 50%">
